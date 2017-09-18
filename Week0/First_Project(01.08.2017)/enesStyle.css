@@ -1,0 +1,79 @@
+ 
+body{
+  width: 800px;
+  margin:auto;
+  margin-top:40px;
+  margin-bottom: 90px;
+  background-color: rgb(237, 233, 233);
+  font-family: monospace;
+  border: groove 1px grey;
+  border-top: 9px solid grey;
+  border-bottom:20px solid grey;
+  padding: 6px;
+}
+
+h1{
+  background-color:rgb(186, 177, 177);
+  font-size:30px;
+  padding: 3px;
+}
+
+h2{
+  color:brown;
+}
+
+h3{
+  background-color:rgb(186, 177, 177);
+  color: brown;
+  padding:6px;
+  margin-left: 6px;
+  font-weight:bold;
+  font-size:17px;
+  font-family: helvetica; 
+}
+
+#sidebar{
+  float:right;
+  margin-top: 50px;
+  padding:1px;
+  border-top: dotted 1px;
+  border-bottom: dotted 1px;
+  border-right: dotted 1px;
+}
+
+.paragraph{
+  width: 700px;
+  color: rgb(113, 82, 30);
+  margin:4px;
+  margin-bottom:9px
+}
+
+table{
+  border:ridge rgb(203, 181, 142);
+  background-color:rgb(202, 202, 201);
+    
+}
+table thead{
+  background-color:rgb(176, 176, 176);
+     
+}
+.images{
+  width:200px;
+  height:130px;
+  margin:5px;
+  margin-top:13px; 
+  border:solid brown;
+  padding:1px
+}
+
+#text1{
+  float:left;
+  width: 320px;
+  height: 400px;
+  overflow: auto;
+  border:dashed 1px brown;
+  padding:4px;
+  margin:5px;
+  padding:3px;
+}
+
